@@ -15,6 +15,7 @@ body {
 }
 
 #page-heading {
+  margin-top: 1rem;
   text-align: center;
   color: grey;
 }
